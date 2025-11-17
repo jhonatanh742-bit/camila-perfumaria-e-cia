@@ -194,9 +194,9 @@
 
 	<!-- PRODUTO 12 -->
         <div class="item">
-            <img src="https://i.postimg.cc/mg94vM12/Whats-App-Image-2025-11-16-at-22-25-36.jpg" alt="Produto 3">
-            <h3>Luna 75 ml</h3>
-            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Luna 75 ml%20">Comprar</a>
+            <img src="https://i.postimg.cc/KYHc9Yhh/Whats-App-Image-2025-11-16-at-22-36-41.jpg" alt="Produto 3">
+            <h3>Desodorante Body Spray Imensi 100ml</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Desodorante Body Spray Imensi 100ml%20">Comprar</a>
         </div>
 
 	<!-- PRODUTO 13 -->
@@ -222,16 +222,16 @@
 
 	<!-- PRODUTO 16 -->
         <div class="item">
-            <img src="https://i.postimg.cc/2SW-YsvLh/Whats-App-Image-2025-11-16-at-22-18-39-(4).jpg" alt="Produto 3">
-            <h3>Creme Para Pés Melissa Hidratante Cuide-se Bem 75g</h3>
-            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Creme Para Pés Melissa Hidratante Cuide-se Bem 75g%20">Comprar</a>
+            <img src="https://i.postimg.cc/Y2yN16sC/Whats-App-Image-2025-11-16-at-22-36-41-(1).jpg" alt="Produto 3">
+            <h3>Batom Vermelho 310 Cremoso</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Batom Vermelho 310 Cremoso%20">Comprar</a>
         </div>
 
 	<!-- PRODUTO 17 -->
         <div class="item">
-            <img src="https://i.postimg.cc/pLjvw85f/Whats-App-Image-2025-11-16-at-22-18-39-(3).jpg" alt="Produto 3">
-            <h3>Sabonete Líquido Íntimo Instance Frutas Vermelhas Eudora 180ml</h3>
-            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Sabonete Líquido Íntimo Instance Frutas Vermelhas Eudora 180ml%20">Comprar</a>
+            <img src="https://i.postimg.cc/T2mmWznX/Whats-App-Image-2025-11-16-at-22-36-42.jpg" alt="Produto 3">
+            <h3>Batom Líquido Niina Secrets Skinny Matte</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Batom Líquido Niina Secrets Skinny Matte%20">Comprar</a>
         </div>
 
 	<!-- PRODUTO 18 -->
@@ -243,9 +243,44 @@
 
 	<!-- PRODUTO 19 -->
         <div class="item">
-            <img src="https://i.postimg.cc/qvKrPn6m/Whats-App-Image-2025-11-16-at-22-18-39-(1).jpg" alt="Produto 3">
-            <h3>Kit Club 6 Body Spray + Hidratante Corporal</h3>
-            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Kit Club 6 Body Spray + Hidratante Corporal%20">Comprar</a>
+            <img src="https://i.postimg.cc/vTzZttQL/Whats-App-Image-2025-11-16-at-22-36-42-(1).jpg" alt="Produto 3">
+            <h3>Condicionador Siàge Expert Regeneração Pós Química 200ml</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Condicionador Siàge Expert Regeneração Pós Química 200ml%20">Comprar</a>
+        </div>
+
+	<!-- PRODUTO 20 -->
+        <div class="item">
+            <img src="https://i.postimg.cc/d0vNzRvq/Whats-App-Image-2025-11-16-at-22-36-42-(2).jpg" alt="Produto 3">
+            <h3>Condicionador Siàge Nutri Óleos Poderosos 200ml</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Condicionador Siàge Nutri Óleos Poderosos 200ml%20">Comprar</a>
+        </div>
+
+	<!-- PRODUTO 21 -->
+        <div class="item">
+            <img src="https://i.postimg.cc/BvQkj5yJ/Whats-App-Image-2025-11-16-at-22-36-42-(3).jpg" alt="Produto 3">
+            <h3>Refil Máscara Capilar Siàge Cica-Therapy 250g</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Refil Máscara Capilar Siàge Cica-Therapy 250g%20">Comprar</a>
+        </div>
+
+	<!-- PRODUTO 22 -->
+        <div class="item">
+            <img src="https://i.postimg.cc/pdhQcp5Y/Whats-App-Image-2025-11-16-at-22-36-42-(4).jpg" alt="Produto 3">
+            <h3>Sabonetes em Barra Sortidos Cuide-se Bem 4x80g</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Sabonetes em Barra Sortidos Cuide-se Bem 4x80g%20">Comprar</a>
+        </div>
+
+	<!-- PRODUTO 23 -->
+        <div class="item">
+            <img src="https://i.postimg.cc/MK3QkzSr/Whats-App-Image-2025-11-16-at-22-36-42-(5).jpg" alt="Produto 3">
+            <h3>Liz Flora Colônia</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Liz Flora Colônia%20">Comprar</a>
+        </div>
+
+	<!-- PRODUTO 24 -->
+        <div class="item">
+            <img src="https://i.postimg.cc/B6NvxCZj/Whats-App-Image-2025-11-16-at-22-36-42-(6).jpg" alt="Produto 3">
+            <h3>Kit Presente Floratta (3 itens)</h3>
+            <a class="whatsapp" href="https://wa.me/5519989448747?text=Olá,%20quero%20saber%20sobre%20o%20Kit Presente Floratta (3 itens)%20">Comprar</a>
         </div>
 
     </div>
