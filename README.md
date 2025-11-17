@@ -60,13 +60,18 @@
 
     .item img {
         width: 100%;
-        height: auto;
-        object-fit: contain;
+        height: 300px; /* maior tamanho */
+        object-fit: contain; /* ajusta a imagem inteira dentro do quadrado */
         border-radius: 12px;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
+        background: #f8f3f8; /* fundo leve para destacar imagens menores */
     }
 
-    .item h3 { font-size: 18px; margin-bottom: 10px; min-height: 48px; }
+    .item h3 { 
+        font-size: 14px; /* descrição menor */
+        margin-bottom: 8px; 
+        min-height: 40px; 
+    }
 
     .btn {
         display: inline-block;
@@ -146,6 +151,25 @@
     .cart-item span { font-size: 16px; }
     .cart-buttons { margin-top: 20px; display: flex; gap: 10px; }
     .cart-buttons .btn { flex: 1; }
+
+    /* Botão fechar do carrinho */
+    #close-cart {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        background: #fff;
+        color: #000;
+        border: none;
+        font-size: 20px;
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1001;
+    }
 
     @media (max-width: 768px) {
         .grid-produtos { grid-template-columns: repeat(2, 1fr); }
@@ -315,7 +339,7 @@
 </div>
 
 <div id="cart">
-    <button id="close-cart" style="position:absolute; top:15px; right:15px; background:#fff; color:#000; border:none; font-size:20px; width:35px; height:35px; border-radius:50%; cursor:pointer; display:flex; align-items:center; justify-content:center; z-index:1001;">✖</button>
+    <button id="close-cart">✖</button>
     <h2>Seu Carrinho</h2>
     <div id="cart-items"></div>
     <div class="cart-buttons">
