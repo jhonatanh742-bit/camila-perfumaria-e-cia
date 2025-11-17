@@ -101,7 +101,7 @@
 
 <!-- BANNER -->
 <div class="banner">
-    <img src="https://i.postimg.cc/PqhWgg5P/Gemini-Generated-Image-ul785tul785tul78.png" alt="Banner Camila Perfumaria">
+    <img src="https://i.imgur.com/sGmHrFU.jpg" alt="Banner Camila Perfumaria">
 </div>
 
 <!-- PRODUTOS -->
