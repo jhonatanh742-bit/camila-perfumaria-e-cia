@@ -204,18 +204,6 @@
             <button class="btn add-cart">Comprar</button>
         </div>
 
-        <div class="item" data-name="Malbec Icon" data-link="https://wa.me/5519989448747?text=Malbec%20Icon">
-            <img src="https://i.postimg.cc/6QNKt3CM/Whats-App-Image-2025-11-16-at-22-18-38-(1).jpg" alt="Malbec Icon">
-            <h3>Malbec Icon Desodorante Colônia 100ml</h3>
-            <button class="btn add-cart">Comprar</button>
-        </div>
-
-        <div class="item" data-name="Combo Siàge Shampoo + Condicionador" data-link="https://wa.me/5519989448747?text=Combo%20Siàge%20Shampoo%20+%20Condicionador">
-            <img src="https://i.postimg.cc/LsMS2XjD/Whats-App-Image-2025-11-16-at-22-18-38-(2).jpg" alt="Combo Siàge">
-            <h3>Combo Siàge Acelera o Crescimento: Shampoo 250ml + Condicionador 200ml</h3>
-            <button class="btn add-cart">Comprar</button>
-        </div>
-
         <div class="item" data-name="Spray Perfumado e Sabonete Instance" data-link="https://wa.me/5519989448747?text=Spray%20Perfumado%20e%20Sabonete%20Instance">
             <img src="https://i.postimg.cc/N0wtBMRk/Whats-App-Image-2025-11-16-at-22-18-38-(3).jpg" alt="Spray Perfumado">
             <h3>Spray Perfumado e Sabonete Vegetal em Barra Instance Morango Irresistível</h3>
@@ -309,12 +297,6 @@
 	<div class="item" data-name="Refil Máscara Capilar Siàge Cica-Therapy 250g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
             <img src="https://i.postimg.cc/BvQkj5yJ/Whats-App-Image-2025-11-16-at-22-36-42-(3).jpg" alt="Refil Máscara Capilar Siàge Cica-Therapy 250g">
             <h3>Refil Máscara Capilar Siàge Cica-Therapy 250g</h3>
-            <button class="btn add-cart">Comprar</button>
-        </div>
-
-	<div class="item" data-name="Sabonetes em Barra Sortidos Cuide-se Bem 4x80g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/pdhQcp5Y/Whats-App-Image-2025-11-16-at-22-36-42-(4).jpg" alt="Sabonetes em Barra Sortidos Cuide-se Bem 4x80g">
-            <h3>Sabonetes em Barra Sortidos Cuide-se Bem 4x80g</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
