@@ -189,7 +189,7 @@
 </div>
 
 <section class="produtos">
-    <h2>Produtos Disponíveis na Beauty Week</h2>
+    <h2>Produtos Disponíveis a Pronta entrega ​🛍️​</h2>
     <div class="grid-produtos">
 
         <div class="item" data-name="Egeo Blue Colônia 90ml" data-link="https://wa.me/5519989448747?text=Coffee%20Woman%20Unique%20Floriental%20Gourmand">
