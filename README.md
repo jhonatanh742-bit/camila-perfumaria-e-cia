@@ -192,21 +192,21 @@
     <h2>Produtos Disponíveis na Beauty Week</h2>
     <div class="grid-produtos">
 
-        <div class="item" data-name="Coffee Woman Unique Floriental Gourmand" data-link="https://wa.me/5519989448747?text=Coffee%20Woman%20Unique%20Floriental%20Gourmand">
-            <img src="https://i.postimg.cc/9fj2CMyN/Whats-App-Image-2025-11-16-at-21-50-17.jpg" alt="Coffee Woman">
-            <h3>Coffee Woman Unique Floriental Gourmand Desodorante Colônia 100ml</h3>
+        <div class="item" data-name="Egeo Blue Colônia 90ml" data-link="https://wa.me/5519989448747?text=Coffee%20Woman%20Unique%20Floriental%20Gourmand">
+            <img src="https://i.postimg.cc/1zfZmW1w/EGEO.jpg" alt="Egeo Blue Colônia 90ml">
+            <h3>Egeo Blue Colônia 90ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
         <div class="item" data-name="Clash Desodorante Colônia" data-link="https://wa.me/5519989448747?text=Clash%20Desodorante%20Colônia">
-            <img src="https://i.postimg.cc/mrG4BD7d/Whats-App-Image-2025-11-16-at-22-18-38.jpg" alt="Clash">
+            <img src="https://i.postimg.cc/GmTZ64FW/CLASH.jpg" alt="Clash">
             <h3>Clash Desodorante Colônia 100ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
-        <div class="item" data-name="Spray Perfumado e Sabonete Instance" data-link="https://wa.me/5519989448747?text=Spray%20Perfumado%20e%20Sabonete%20Instance">
-            <img src="https://i.postimg.cc/N0wtBMRk/Whats-App-Image-2025-11-16-at-22-18-38-(3).jpg" alt="Spray Perfumado">
-            <h3>Spray Perfumado e Sabonete Vegetal em Barra Instance Morango Irresistível</h3>
+        <div class="item" data-name="Creme Hidratante 400ml + Sabonete Instance Morango Irresistível 80g (4 unidades) " data-link="https://wa.me/5519989448747?text=Spray%20Perfumado%20e%20Sabonete%20Instance">
+            <img src="https://i.postimg.cc/vZ9GfqNM/creme-sabonete.jpg" alt="Creme Hidratante 400ml + Sabonete Instance Morango Irresistível 80g (4 unidades)">
+            <h3>Creme Hidratante 400ml + Sabonete Instance Morango Irresistível 80g (4 unidades)</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
@@ -223,7 +223,7 @@
         </div>
 
         <div class="item" data-name="Colônia Velvet Sensual Intense" data-link="https://wa.me/5519989448747?text=Colônia%20Velvet%20Sensual%20Intense">
-            <img src="https://i.postimg.cc/Z5NmG3vw/Whats-App-Image-2025-11-16-at-22-18-39.jpg" alt="Velvet Sensual">
+            <img src="https://i.postimg.cc/Qd0Zp2qt/eudora-velvet.jpg" alt="Velvet Sensual">
             <h3>Colônia Velvet Sensual Intense 100ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
@@ -235,7 +235,7 @@
         </div>
 
         <div class="item" data-name="Kriska Shock 100 ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/HkMmq58V/Whats-App-Image-2025-11-16-at-22-25-36-(1).jpg" alt="Kriska Shock 100 ml">
+            <img src="https://i.postimg.cc/QdV0yvrz/kriska-shock.jpg" alt="Kriska Shock 100 ml">
             <h3>Kriska Shock 100 ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
@@ -246,62 +246,68 @@
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Loção Hidratante e Sabonete Cuide-Bem Cereja Livre" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/g2hpCRL2/Whats-App-Image-2025-11-16-at-22-18-40-(2).jpg" alt="Loção Hidratante e Sabonete Cuide-Bem Cereja Livre">
-            <h3>Loção Hidratante e Sabonete Cuide-Bem Cereja Livre</h3>
+	<div class="item" data-name="Combo Cuide-se Bem Cereja Livre: Body Splash 200ml+ Sabonetes Em Barra 2x80g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/JzWz6CJG/sabonete-e-bory-cereja-livre.jpg" alt="Combo Cuide-se Bem Cereja Livre: Body Splash 200ml+ Sabonetes Em Barra 2x80g">
+            <h3>Combo Cuide-se Bem Cereja Livre: Body Splash 200ml+ Sabonetes Em Barra 2x80g</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Coffee Man Unique Fougère Oriental Colônia 100ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/FHSvMckJ/Whats-App-Image-2025-11-16-at-22-18-40-(1).jpg" alt="Coffee Man Unique Fougère Oriental Colônia 100ml">
-            <h3>Coffee Man Unique Fougère Oriental Colônia 100ml</h3>
+	<div class="item" data-name="Kit Siàge Mini Hair Plastia" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/cCSdDQts/Kit-Siage-Mini-Hair-Plastia.jpg" alt="Kit Siàge Mini Hair Plastia">
+            <h3>Kit Siàge Mini Hair Plastia</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 	
 	<div class="item" data-name="Sabonete Líquido Cuide-se Bem Melissa 150ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/y8RKM93R/Whats-App-Image-2025-11-16-at-22-18-40.jpg" alt="Sabonete Líquido Cuide-se Bem Melissa 150ml">
+            <img src="https://i.postimg.cc/vmF2xXpq/melissa-sabinete.jpg" alt="Sabonete Líquido Cuide-se Bem Melissa 150ml">
             <h3>Sabonete Líquido Cuide-se Bem Melissa 150ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Batom Vermelho 310 Cremoso" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/Y2yN16sC/Whats-App-Image-2025-11-16-at-22-36-41-(1).jpg" alt="Batom Vermelho 310 Cremoso">
-            <h3>Batom Vermelho 310 Cremoso</h3>
+	<div class="item" data-name="Batom Vermelho 360 Efeito Mate 3,8g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/xjJpfcpC/Batom-Vermelho-360-Efeito-Mate-3-8g.jpg" alt="Batom Vermelho 360 Efeito Mate 3,8g">
+            <h3>Batom Vermelho 360 Efeito Mate 3,8g</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Batom Vermelho 340 Cremoso 3,8g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/wjfDRk7x/Batom-Vermelho-340-Cremoso-3-8g.jpg" alt="Batom Vermelho 340 Cremoso 3,8g">
+            <h3>Batom Vermelho 340 Cremoso 3,8g</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
 	<div class="item" data-name="Batom Líquido Niina Secrets Skinny Matte" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/T2mmWznX/Whats-App-Image-2025-11-16-at-22-36-42.jpg" alt="Batom Líquido Niina Secrets Skinny Matte">
+            <img src="https://i.postimg.cc/sxmMdVhb/BATOM-LIQUIDO.jpg" alt="Batom Líquido Niina Secrets Skinny Matte">
             <h3>Batom Líquido Niina Secrets Skinny Matte</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
 	<div class="item" data-name="Combo Creme Hidratante Desodorante Indulgent Cream 100ml + Body Spray Eudora 100ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/T3bxzm5c/Whats-App-Image-2025-11-16-at-22-18-39-(2).jpg" alt="Combo Creme Hidratante Desodorante Indulgent Cream 100ml + Body Spray Eudora 100ml">
+            <img src="https://i.postimg.cc/G2r3cWdh/EDP.jpg" alt="Combo Creme Hidratante Desodorante Indulgent Cream 100ml + Body Spray Eudora 100ml">
             <h3>Combo Creme Hidratante Desodorante Indulgent Cream 100ml + Body Spray Eudora 100ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Condicionador Siàge Expert Regeneração Pós Química 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/vTzZttQL/Whats-App-Image-2025-11-16-at-22-36-42-(1).jpg" alt="Condicionador Siàge Expert Regeneração Pós Química 200ml">
-            <h3>Condicionador Siàge Expert Regeneração Pós Química 200ml</h3>
+	<div class="item" data-name="Combo Siàge Regeneração Pós Química: Shampoo 250ml + Condicionador 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/hvfkgszh/Combo-Siage-Regeneracao-Pos-Quimica-Shampoo-250ml-Condicionador-200ml.jpg" alt="Combo Siàge Regeneração Pós Química: Shampoo 250ml + Condicionador 200ml">
+            <h3>Combo Siàge Regeneração Pós Química: Shampoo 250ml + Condicionador 200ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Condicionador Siàge Nutri Óleos Poderosos 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/d0vNzRvq/Whats-App-Image-2025-11-16-at-22-36-42-(2).jpg" alt="Condicionador Siàge Nutri Óleos Poderosos 200ml">
-            <h3>Condicionador Siàge Nutri Óleos Poderosos 200ml</h3>
+	<div class="item" data-name="Eudora Kit Siàge Nutri Óleos Poderosos Shampoo + Condicionador" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/X7MW4MLG/Eudora-Kit-Siage-Nutri-Oleos-Poderosos-Shampoo-Condicionador.jpg" alt="Eudora Kit Siàge Nutri Óleos Poderosos Shampoo + Condicionador">
+            <h3>Eudora Kit Siàge Nutri Óleos Poderosos Shampoo + Condicionador</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
 	<div class="item" data-name="Refil Máscara Capilar Siàge Cica-Therapy 250g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/BvQkj5yJ/Whats-App-Image-2025-11-16-at-22-36-42-(3).jpg" alt="Refil Máscara Capilar Siàge Cica-Therapy 250g">
+            <img src="https://i.postimg.cc/GmcZmby9/REFIL-MASCARA.jpg" alt="Refil Máscara Capilar Siàge Cica-Therapy 250g">
             <h3>Refil Máscara Capilar Siàge Cica-Therapy 250g</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
 	<div class="item" data-name="Liz Flora Colônia" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/MK3QkzSr/Whats-App-Image-2025-11-16-at-22-36-42-(5).jpg" alt="Liz Flora Colônia">
+            <img src="https://i.postimg.cc/zXkcM4PQ/LIZ-FLORA.jpg" alt="Liz Flora Colônia">
             <h3>Liz Flora Colônia</h3>
             <button class="btn add-cart">Comprar</button>
         </div>	
@@ -309,6 +315,96 @@
 	<div class="item" data-name="Kit Presente Floratta (3 itens)" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
             <img src="https://i.postimg.cc/B6NvxCZj/Whats-App-Image-2025-11-16-at-22-36-42-(6).jpg" alt="Kit Presente Floratta (3 itens)">
             <h3>Kit Presente Floratta (3 itens)</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Boti Baby Colônia do Sol 100ml + Sabonete Líquido de Glicerina Boti Baby 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/g2QqBDmP/Boti-Baby-Colonia-do-Sol-100ml-Sabonete-Liquido-de-Glicerina-Boti-Baby-200ml.jpg" alt="Boti Baby Colônia do Sol 100ml + Sabonete Líquido de Glicerina Boti Baby 200ml">
+            <h3>Boti Baby Colônia do Sol 100ml + Sabonete Líquido de Glicerina Boti Baby 200ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Kit Sabonete Em Barra Men NBA 2x90g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/CLtqFxtn/Kit-Sabonete-Em-Barra-Men-NBA-2x90g.jpg" alt="Kit Sabonete Em Barra Men NBA 2x90g">
+            <h3>Kit Sabonete Em Barra Men NBA 2x90g</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Harry Potter Balm Labial Marrom Quem Disse, Berenice" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/43w4x8d5/Harry-Potter-Balm-Labial-Marrom-Quem-Disse-Berenice.jpg" alt="Harry Potter Balm Labial Marrom Quem Disse, Berenice">
+            <h3>Harry Potter Balm Labial Marrom Quem Disse, Berenice</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Gloss Labial Cachos de Uva QDB E Cuide-se Bem 4ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/7Yg5yng0/Gloss-Labial-Cachos-de-Uva-QDB-E-Cuide-se-Bem-4ml.jpg" alt="Gloss Labial Cachos de Uva QDB E Cuide-se Bem 4ml">
+            <h3>Gloss Labial Cachos de Uva QDB E Cuide-se Bem 4ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Sabonete em Barra Instance Rosa Absoluta 80g (4 unidades)" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/rsTLGxKT/Sabonete-em-Barra-Instance-Rosa-Absoluta-80g-(4-unidades).jpg" alt="Sabonete em Barra Instance Rosa Absoluta 80g (4 unidades)">
+            <h3>Sabonete em Barra Instance Rosa Absoluta 80g (4 unidades)</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Eudora Iluminador Multifuncional Glam Paetê 5g" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/TwR9rPT8/Eudora-Iluminador-Multifuncional-Glam-Paete-5g.jpg" alt="Eudora Iluminador Multifuncional Glam Paetê 5g">
+            <h3>Eudora Iluminador Multifuncional Glam Paetê 5g</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Malbec Body Spray Desodorante 100 Ml - O Boticário" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/K8DQ4Lyn/Whats-App-Image-2025-11-30-at-14-29-38-(2).jpg" alt="Malbec Body Spray Desodorante 100 Ml - O Boticário">
+            <h3>Malbec Body Spray Desodorante 100 Ml - O Boticário</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/j2RSxGQT/Whats-App-Image-2025-11-30-at-14-29-38.jpg" alt="Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml">
+            <h3>Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Spray Perfumado Colônia Instance Morango Irresistível 200ml + Creme de Massagem 180ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/9MW6rVSM/Whats-App-Image-2025-11-30-at-14-29-37-(5).jpg" alt="Spray Perfumado Colônia Instance Morango Irresistível 200ml + Creme de Massagem 180ml">
+            <h3>Spray Perfumado Colônia Instance Morango Irresistível 200ml + Creme de Massagem 180ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Body Splash Colônia Cuide-se Bem Beijinho 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/JhdF4JbQ/Whats-App-Image-2025-11-30-at-14-29-37-(3).jpg" alt="Body Splash Colônia Cuide-se Bem Beijinho 200ml">
+            <h3>Body Splash Colônia Cuide-se Bem Beijinho 200ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Body Splash Colônia Nativa Spa Cereja Rouge 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/g27yxKTQ/Whats-App-Image-2025-11-30-at-14-29-37-(2).jpg" alt="Body Splash Colônia Nativa Spa Cereja Rouge 200ml">
+            <h3>Body Splash Colônia Nativa Spa Cereja Rouge 200ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Body Splash Desodorante Colônia Cuide-se Bem Cereja Livre 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/9f3R3gkd/Whats-App-Image-2025-11-30-at-14-29-37-(1).jpg" alt="Body Splash Desodorante Colônia Cuide-se Bem Cereja Livre 200ml">
+            <h3>Body Splash Desodorante Colônia Cuide-se Bem Cereja Livre 200ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Colônia Infantil Sophie Candy 100ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/TYL3Rqnx/Whats-App-Image-2025-11-30-at-14-29-34-(4).jpg" alt="Colônia Infantil Sophie Candy 100ml">
+            <h3>Colônia Infantil Sophie Candy 100ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Liz Aura Desodorante Colonia 100ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/DZN3DHj6/Whats-App-Image-2025-11-30-at-14-29-34-(1).jpg" alt="Liz Aura Desodorante Colonia 100ml">
+            <h3>Liz Aura Desodorante Colonia 100ml</h3>
+            <button class="btn add-cart">Comprar</button>
+        </div>
+
+	<div class="item" data-name="Ilía 50 ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
+            <img src="https://i.postimg.cc/XqFNgnjV/Whats-App-Image-2025-11-30-at-14-29-33-(2).jpg" alt="Ilía 50 ml">
+            <h3>Ilía 50 ml</h3>
             <button class="btn add-cart">Comprar</button>
         </div>
 
