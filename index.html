@@ -180,6 +180,118 @@
         .grid-produtos { grid-template-columns: repeat(2, 1fr); }
         .produtos h2 { font-size: 22px; }
     }
+
+body {
+    background: linear-gradient(180deg, #fff7f9, #fbeff3);
+}
+
+.produtos h2 {
+    color: #b11226;
+}
+
+.banner img {
+    box-shadow: 0 0 25px rgba(177, 18, 38, 0.25);
+}
+
+.item {
+    border: 2px solid #f2d6dc;
+    background: #ffffff;
+}
+
+.item:hover {
+    box-shadow: 0 18px 30px rgba(177, 18, 38, 0.25);
+}
+
+.btn {
+    background: linear-gradient(135deg, #b11226, #d62839);
+    box-shadow: 0 6px 15px rgba(177, 18, 38, 0.35);
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #0f5c2e, #1c7c45);
+}
+
+#cart-btn {
+    background: linear-gradient(135deg, #b11226, #d62839);
+    box-shadow: 0 8px 20px rgba(177, 18, 38, 0.4);
+}
+
+#cart-count {
+    background: #0f5c2e;
+}
+
+#cart {
+    border-left: 4px solid #b11226;
+}
+
+#cart h2 {
+    color: #b11226;
+}
+
+#close-cart {
+    background: #fbeff3;
+}
+
+.cart-buttons .btn {
+    background: linear-gradient(135deg, #0f5c2e, #1c7c45);
+}
+
+.cart-buttons .btn:hover {
+    background: linear-gradient(135deg, #b11226, #d62839);
+}
+
+.item img {
+    border: 2px solid #f2d6dc;
+}
+
+body {
+    background: 
+        url("https://i.postimg.cc/zD9v5W1B/natureza-morta-de-arvore-de-natal-com-decoracao-com-espaco-de-copia.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.produtos h2 {
+    background: #ffffff;
+    display: inline-block;
+    padding: 12px 26px;
+    border-radius: 14px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    text-shadow: none;
+}
+
+.snow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+
+    background-image:
+        radial-gradient(3px 3px at 30px 40px, #ffffff, transparent),
+        radial-gradient(2.5px 2.5px at 80px 90px, #ffffff, transparent),
+        radial-gradient(3px 3px at 140px 60px, #ffffff, transparent),
+        radial-gradient(2px 2px at 180px 120px, #ffffff, transparent),
+        radial-gradient(2.5px 2.5px at 220px 30px, #ffffff, transparent);
+
+    background-size: 260px 260px;
+    animation: snowFall 22s linear infinite;
+    z-index: 999;
+    opacity: 0.75;
+}
+
+/* ANIMAÇÃO DA NEVE */
+@keyframes snowFall {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 0 1200px;
+    }
+}
+
 </style>
 </head>
 <body>
@@ -343,12 +455,6 @@
             <button class="btn add-cart">Comprar</button>
         </div>
 
-	<div class="item" data-name="Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
-            <img src="https://i.postimg.cc/j2RSxGQT/Whats-App-Image-2025-11-30-at-14-29-38.jpg" alt="Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml">
-            <h3>Spray Perfumado Instance Morango Irresistível 200ml + Creme Hidratante 400ml</h3>
-            <button class="btn add-cart">Comprar</button>
-        </div>
-
 	<div class="item" data-name="Body Splash Colônia Cuide-se Bem Beijinho 200ml" data-link="https://wa.me/5519989448747?text=Ilía%20Secreto%2050ml">
             <img src="https://i.postimg.cc/JhdF4JbQ/Whats-App-Image-2025-11-30-at-14-29-37-(3).jpg" alt="Body Splash Colônia Cuide-se Bem Beijinho 200ml">
             <h3>Body Splash Colônia Cuide-se Bem Beijinho 200ml</h3>
@@ -461,6 +567,8 @@
         window.open("https://wa.me/5519989448747?text=" + message, "_blank");
     });
 </script>
+
+<div class="snow"></div>
 
 </body>
 </html>
